@@ -1,7 +1,7 @@
 import { Fragment } from 'react'
 import {MARCAS, YEARS, PLANES} from '../constants/index.js'
 import useCotizador from '../hooks/useCotizador.jsx'
-import Error from './error.jsx'
+import Error from './Error.jsx'
 
 
 
